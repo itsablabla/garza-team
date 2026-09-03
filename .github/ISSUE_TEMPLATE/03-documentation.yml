@@ -7,11 +7,11 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for helping improve Magic's documentation! Clear documentation is crucial for project success.
+        Thanks for helping improve Garza OS documentation! Clear documentation is crucial for project success.
         
         **Before submitting a documentation issue:**
         - Check if the documentation issue has already been reported
-        - Browse our current [documentation](https://docs.letsmagic.cn/en)
+        - Browse our current [documentation](https://github.com/itsablabla/garza-team/tree/main/docs)
         - Consider if your suggestion would help other users
 
   - type: dropdown
@@ -39,12 +39,12 @@ body:
       label: Component
       description: Which component/module does this documentation relate to?
       options:
-        - Super Magic
-        - Magic IM (Chat System)
-        - Magic Flow (Workflow System)
-        - Magic Service (Backend API)
-        - Magic Web (Frontend)
-        - Magic Gateway
+        - Garza OS Workspace (legacy: Super Magic)
+        - Garza IM (legacy: Magic IM)
+        - Garza Flow (legacy: Magic Flow)
+        - Garza Service (legacy: Magic Service)
+        - Garza Web (legacy: Magic Web)
+        - Garza Gateway (legacy: Magic Gateway)
         - Agentlang Framework
         - Installation/Deployment
         - Getting Started
@@ -60,7 +60,7 @@ body:
     attributes:
       label: Documentation URL
       description: If applicable, provide the URL of the documentation page
-      placeholder: https://docs.letsmagic.cn/en/...
+      placeholder: https://github.com/itsablabla/garza-team/tree/main/docs/...
     validations:
       required: false
 

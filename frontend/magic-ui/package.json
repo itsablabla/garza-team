@@ -2,7 +2,7 @@
 	"name": "magic-ui",
 	"version": "1.0.0",
 	"private": true,
-	"description": "Reusable React UI component library for the Magic frontend ecosystem.",
+	"description": "Reusable React UI component library for the Garza OS frontend ecosystem.",
 	"keywords": [
 		"react",
 		"ui-components",
@@ -10,13 +10,13 @@
 		"typescript",
 		"vite"
 	],
-	"homepage": "https://github.com/dtyq/magic/tree/master/frontend/magic-ui#readme",
+	"homepage": "https://github.com/itsablabla/garza-team/tree/main/frontend/magic-ui#readme",
 	"bugs": {
-		"url": "https://github.com/dtyq/magic/issues"
+		"url": "https://github.com/itsablabla/garza-team/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/dtyq/magic.git",
+		"url": "git+https://github.com/itsablabla/garza-team.git",
 		"directory": "frontend/magic-ui"
 	},
 	"license": "Apache-2.0",

@@ -2,7 +2,7 @@
 	"name": "magic-web",
 	"version": "3.0.0",
 	"private": true,
-	"description": "Main Magic web application built with React and Vite for enterprise and open-source editions.",
+	"description": "Main Garza OS web application built with React and Vite for enterprise and open-source editions.",
 	"keywords": [
 		"react",
 		"vite",
@@ -13,13 +13,13 @@
 		"agent",
 		"super-magic"
 	],
-	"homepage": "https://github.com/dtyq/magic/tree/master/frontend/magic-web#readme",
+	"homepage": "https://github.com/itsablabla/garza-team/tree/main/frontend/magic-web#readme",
 	"bugs": {
-		"url": "https://github.com/dtyq/magic/issues"
+		"url": "https://github.com/itsablabla/garza-team/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/dtyq/magic.git",
+		"url": "git+https://github.com/itsablabla/garza-team.git",
 		"directory": "frontend/magic-web"
 	},
 	"license": "Apache-2.0",

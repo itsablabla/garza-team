@@ -7,10 +7,10 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for reporting a deployment or installation issue! This helps us improve the Magic setup experience.
+        Thanks for reporting a deployment or installation issue! This helps us improve the Garza OS setup experience.
         
         **Before submitting a deployment issue:**
-        - Check the [installation documentation](https://docs.letsmagic.cn/en)
+        - Check the [installation documentation](https://github.com/itsablabla/garza-team/tree/main/docs)
         - Verify system requirements are met
         - Try the installation steps in a clean environment if possible
 
@@ -64,7 +64,7 @@ body:
       label: Steps to Reproduce
       description: Detailed steps you followed that led to the issue
       placeholder: |
-        1. Download Magic from [source]
+        1. Download Garza OS from [source]
         2. Run command: [command]
         3. Configure [component]
         4. Observe error: [error]
@@ -84,7 +84,7 @@ body:
         - Available RAM: [e.g. 16GB]
         - Available Disk Space: [e.g. 100GB]
         - Network Configuration: [e.g. Corporate firewall, proxy]
-        - Magic Version: [e.g. v1.0.0, latest, commit hash]
+        - Garza OS Version: [e.g. v1.0.0, latest, commit hash]
     validations:
       required: true
 

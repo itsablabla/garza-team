@@ -43,12 +43,12 @@ body:
       label: Component
       description: Which component/module does this security issue affect?
       options:
-        - Super Magic
-        - Magic IM (Chat System)
-        - Magic Flow (Workflow System)
-        - Magic Service (Backend API)
-        - Magic Web (Frontend)
-        - Magic Gateway
+        - Garza OS Workspace (legacy: Super Magic)
+        - Garza IM (legacy: Magic IM)
+        - Garza Flow (legacy: Magic Flow)
+        - Garza Service (legacy: Magic Service)
+        - Garza Web (legacy: Magic Web)
+        - Garza Gateway (legacy: Magic Gateway)
         - Authentication system
         - Authorization/Permissions
         - Data storage/handling

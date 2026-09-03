@@ -7,12 +7,12 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to suggest a new feature! We value community input in shaping Magic's future.
+        Thanks for taking the time to suggest a new feature! We value community input in shaping Garza OS's future.
         
         **Before submitting a feature request:**
-        - Check if the feature has already been requested in [existing issues](https://github.com/dtyq/magic/issues)
-        - Review our [roadmap](https://github.com/dtyq/magic/discussions) if available
-        - Consider if this feature aligns with Magic's core philosophy
+        - Check if the feature has already been requested in [existing issues](https://github.com/itsablabla/garza-team/issues)
+        - Review our [roadmap](https://github.com/itsablabla/garza-team/discussions) if available
+        - Consider if this feature aligns with Garza OS's core philosophy
 
   - type: dropdown
     id: component
@@ -20,12 +20,12 @@ body:
       label: Component
       description: Which component/module would this feature affect?
       options:
-        - Super Magic
-        - Magic IM (Chat System)
-        - Magic Flow (Workflow System)
-        - Magic Service (Backend API)
-        - Magic Web (Frontend)
-        - Magic Gateway
+        - Garza OS Workspace (legacy: Super Magic)
+        - Garza IM (legacy: Magic IM)
+        - Garza Flow (legacy: Magic Flow)
+        - Garza Service (legacy: Magic Service)
+        - Garza Web (legacy: Magic Web)
+        - Garza Gateway (legacy: Magic Gateway)
         - Agentlang Framework
         - Documentation
         - Deployment/Installation
@@ -123,7 +123,7 @@ body:
       label: User Type
       description: What type of user would benefit from this feature?
       options:
-        - End user (using Magic products)
+        - End user (using Garza OS products)
         - Developer (integrating/extending Magic)
         - System administrator
         - Enterprise/team admin
