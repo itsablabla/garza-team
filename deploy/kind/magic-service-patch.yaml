@@ -1,0 +1,37 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: magic-service
+  namespace: magic
+spec:
+  template:
+    spec:
+      volumes:
+        - name: workspace-fix
+          configMap:
+            name: magic-workspace-fix
+      containers:
+        - name: magic-service
+          resources:
+            requests:
+              cpu: "1"
+              memory: 2Gi
+            limits:
+              cpu: "4"
+              memory: 6Gi
+          volumeMounts:
+            - name: workspace-fix
+              mountPath: /opt/www/vendor/dtyq/super-magic-module/src/Interfaces/SuperAgent/Facade/WorkspaceApi.php
+              subPath: WorkspaceApi.php
+            - name: workspace-fix
+              mountPath: /opt/www/vendor/dtyq/super-magic-module/src/Application/SuperAgent/Service/WorkspaceAppService.php
+              subPath: WorkspaceAppService.php
+            - name: workspace-fix
+              mountPath: /opt/www/vendor/dtyq/super-magic-module/src/Domain/SuperAgent/Service/WorkspaceDomainService.php
+              subPath: WorkspaceDomainService.php
+            - name: workspace-fix
+              mountPath: /opt/www/vendor/dtyq/super-magic-module/src/Domain/SuperAgent/Entity/ValueObject/WorkspaceType.php
+              subPath: WorkspaceType.php
+            - name: workspace-fix
+              mountPath: /opt/www/vendor/dtyq/super-magic-module/config/routes-v1/super-agent.php
+              subPath: super-agent.php
