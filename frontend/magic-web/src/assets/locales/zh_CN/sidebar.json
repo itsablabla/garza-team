@@ -243,5 +243,17 @@
 		"add": "新建工作区",
 		"refresh": "刷新工作区与项目列表",
 		"title": "工作空间"
+	},
+	"office": {
+		"messenger": "即时通讯",
+		"contacts": "通讯录",
+		"calendar": "日历",
+		"tasks": "任务",
+		"drive": "云盘",
+		"wiki": "知识库",
+		"approval": "审批",
+		"workflow": "工作流",
+		"explore": "发现",
+		"workplace": "工作台"
 	}
 }

@@ -243,5 +243,17 @@
 		"add": "New Workspace",
 		"refresh": "Refresh workspaces and projects",
 		"title": "Workspaces"
+	},
+	"office": {
+		"messenger": "Messenger",
+		"contacts": "Contacts",
+		"calendar": "Calendar",
+		"tasks": "Tasks",
+		"drive": "Drive",
+		"wiki": "Wiki",
+		"approval": "Approval",
+		"workflow": "Workflow",
+		"explore": "Discover",
+		"workplace": "Workplace"
 	}
 }
