@@ -1,20 +1,20 @@
 # 贡献指南
 
-很高兴你有兴趣为 Magic 做出贡献 - 这太棒了，我们迫不及待地想看看你会做些什么。作为一家人员和资金有限的创业公司，我们有宏大的抱负，致力于构建最强大的 LLM 应用程序。来自社区的任何帮助都非常重要，这是真的。
+很高兴你有兴趣为 Garza OS 做出贡献 - 这太棒了，我们迫不及待地想看看你会做些什么。作为一家人员和资金有限的创业公司，我们有宏大的抱负，致力于构建最强大的 LLM 应用程序。来自社区的任何帮助都非常重要，这是真的。
 
 考虑到我们的现状，我们需要灵活并快速发布，但我们也想确保像你这样的贡献者获得尽可能流畅的贡献体验。我们为此编写了这份贡献指南，旨在帮助你熟悉代码库以及我们如何与贡献者合作，以便你能够快速进入有趣的部分。
 
-这份指南，就像 Magic 本身一样，是不断完善的。如果有时它落后于实际项目，我们非常感谢你的理解，也欢迎任何有助于我们改进的反馈。
+这份指南，就像 Garza OS 本身一样，是不断完善的。如果有时它落后于实际项目，我们非常感谢你的理解，也欢迎任何有助于我们改进的反馈。
 
 关于许可，请花一分钟阅读我们简短的[许可和贡献者协议](./LICENSE)。社区也遵守[行为准则](https://github.com/dtyq/.github/blob/main/CODE_OF_CONDUCT.md)。
 
 ## 开始之前
 
-寻找可以处理的任务？浏览我们的[适合新手的问题](https://github.com/dtyq/magic/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22)并选择一个开始！
+寻找可以处理的任务？浏览我们的[适合新手的问题](https://github.com/itsablabla/garza-team/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22)并选择一个开始！
 
-有一个很酷的想法或功能要添加？在我们的[主仓库](https://github.com/dtyq/magic)中开启一个 PR，向我们展示你构建的内容。
+有一个很酷的想法或功能要添加？在我们的[主仓库](https://github.com/itsablabla/garza-team)中开启一个 PR，向我们展示你构建的内容。
 
-需要更新现有功能或修复一些 bug？在我们的[主仓库](https://github.com/dtyq/magic)中开启一个 PR，施展你的魔法吧！
+需要更新现有功能或修复一些 bug？在我们的[主仓库](https://github.com/itsablabla/garza-team)中开启一个 PR，一起把 Garza OS 做得更好。
 
 加入我们，做出贡献，让我们一起构建令人惊叹的东西！💡✨
 
@@ -55,7 +55,7 @@
 | 功能类型 | 优先级 |
 | ------ | ------ |
 | 被团队成员标记为高优先级的功能 | 高优先级 |
-| 来自我们[社区反馈板](https://github.com/dtyq/magic/discussions/categories/feedbacks)的受欢迎功能请求 | 中等优先级 |
+| 来自我们[社区反馈板](https://github.com/itsablabla/garza-team/discussions/categories/feedbacks)的受欢迎功能请求 | 中等优先级 |
 | 非核心功能和小增强 | 低优先级 |
 | 有价值但不紧急的功能 | 未来功能 |
 
@@ -75,11 +75,11 @@
 
 #### 前端
 
-关于设置前端服务，请参考 `frontend/README.md` 文件中的全面[指南](https://github.com/dtyq/magic/blob/main/frontend/README.md)。该文档提供了详细说明，帮助你正确设置前端环境。
+关于设置前端服务，请参考 `frontend/README.md` 文件中的全面[指南](https://github.com/itsablabla/garza-team/blob/main/frontend/README.md)。该文档提供了详细说明，帮助你正确设置前端环境。
 
 #### 后端
 
-关于设置后端服务，请参考 `backend/README.md` 文件中的详细[说明](https://github.com/dtyq/magic/blob/main/backend/README.md)。该文档包含分步指导，帮助你顺利运行后端。
+关于设置后端服务，请参考 `backend/README.md` 文件中的详细[说明](https://github.com/itsablabla/garza-team/blob/main/backend/README.md)。该文档包含分步指导，帮助你顺利运行后端。
 
 #### 其他注意事项
 

@@ -4,46 +4,46 @@
   <a href="#自托管部署"><img alt="现在部署！" src="https://img.shields.io/badge/现在部署%21-red" height="20"></a>
 </div>
 
-# 🔥 超级麦吉 - 企业级开源 AI Agent 平台
+# 🔥 Garza OS - 企业级开源 AI Agent 平台
 
 <div align="center">
   <p align="center">
-    <a href="https://www.magicrew.ai" target="_blank">
-      <img alt="Static Badge" src="https://img.shields.io/badge/Official Website-301AD2">
+    <a href="https://github.com/itsablabla/garza-team" target="_blank">
+      <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-Repository-301AD2">
     </a>
-    <a href="https://github.com/dtyq/magic/releases">
-      <img src="https://poser.pugx.org/dtyq/magic/v/stable" alt="Stable Version">
+    <a href="https://github.com/itsablabla/garza-team/releases">
+      <img src="https://img.shields.io/github/v/release/itsablabla/garza-team" alt="Latest Release">
     </a>
-    <a href="https://github.com/dtyq/magic/graphs/commit-activity" target="_blank">
-      <img alt="Commits last month" src="https://img.shields.io/github/commit-activity/m/dtyq/magic?labelColor=%20%2332b583&color=%20%2312b76a">
+    <a href="https://github.com/itsablabla/garza-team/graphs/commit-activity" target="_blank">
+      <img alt="Commits last month" src="https://img.shields.io/github/commit-activity/m/itsablabla/garza-team?labelColor=%20%2332b583&color=%20%2312b76a">
     </a>
-    <a href="https://github.com/dtyq/magic/" target="_blank">
-      <img alt="Issues closed" src="https://img.shields.io/github/issues-search?query=repo%3Adtyq%2Fmagic%20is%3Aclosed&label=issues%20closed&labelColor=%20%237d89b0&color=%20%235d6b98">
+    <a href="https://github.com/itsablabla/garza-team/" target="_blank">
+      <img alt="Issues closed" src="https://img.shields.io/github/issues-search?query=repo%3Aitsablabla%2Fgarza-team%20is%3Aclosed&label=issues%20closed&labelColor=%20%237d89b0&color=%20%235d6b98">
     </a>
-    <a href="https://github.com/dtyq/magic/discussions/" target="_blank">
-      <img alt="Discussion posts" src="https://img.shields.io/github/discussions/dtyq/magic?labelColor=%20%239b8afb&color=%20%237a5af8">
+    <a href="https://github.com/itsablabla/garza-team/discussions/" target="_blank">
+      <img alt="Discussion posts" src="https://img.shields.io/github/discussions/itsablabla/garza-team?labelColor=%20%239b8afb&color=%20%237a5af8">
     </a>
-    <a href="https://www.magicrew.ai" target="_blank">
-      <img alt="Static Badge" src="https://img.shields.io/badge/Built with Magic 🔮-301AD2">
+    <a href="./docs" target="_blank">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Docs-Garza%20OS-301AD2">
     </a>
   </p>
 </div>
 
 <br/>
 
-![Super Magic](https://public-cdn.magicrew.ai/static/img/3.0/super-magic-publish-head-v2.png)
+![Garza OS](https://public-cdn.magicrew.ai/static/img/3.0/super-magic-publish-head-v2.png)
 
 [🦞 OpenClaw](https://github.com/openclaw/openclaw) 是热门的个人 AI 助手——连接所有常用 IM，支持任何 LLM，7×24 小时自主运转。
 
 但当我们进入企业场景后，新的挑战自然浮现：数据散落在员工个人账号，预算难以管控，产出停留在纯文本，高风险动作缺乏守门机制。
 
-超级麦吉正是为应对这些挑战而生：一套**安全、可控、能直接交付业务结果、7×24 小时自主运转**的企业级 AI Agent 平台。
+Garza OS 正是为应对这些挑战而生：一套**安全、可控、能直接交付业务结果、7×24 小时自主运转**的企业级 AI Agent 平台。
 
 ---
 
 ## 告别「调试」，即刻构建企业 AI Agent 引擎
 
-个人版 AI 工具在企业落地时，通常会遇到下面这些问题。超级麦吉给出的对应解法如下：
+个人版 AI 工具在企业落地时，通常会遇到下面这些问题。Garza OS 给出的对应解法如下：
 
 - 数据散落在员工账号，人一走就没了 → 统一的数据中心，知识沉淀不随人走
 - API 费用说不清，月底超支 → 部门、用户、单次任务都能设预算上限
@@ -54,7 +54,7 @@
 
 ## 适用于任何规模
 
-超级麦吉不是只属于大公司的工具。**从一人公司到万人集团，它解决的是同一个问题：让你以 1 人的成本，拥有 100 人的执行力。**
+Garza OS 不是只属于大公司的工具。**从一人公司到万人集团，它解决的是同一个问题：让你以 1 人的成本，拥有 100 人的执行力。**
 
 它天然契合 **OPC（One Person Company，一人公司）** 与 **OPT（One Person Team，一人团队）** 的目标与场景：轻资产启动、零人力成本、快速交付有形成果、随时按需接入新能力。无论你是独立创业者还是小团队，都能以一人之身，调度「千军万马」。
 
@@ -111,7 +111,7 @@
 
 ## 个人 AI 助理 + 专家 Agent：让每个人都能调动 AI 军团
 
-超级麦吉为企业带来两类能力：
+Garza OS 为企业带来两类能力：
 
 **人人都有个人 AI 助理**
 
@@ -182,8 +182,14 @@ curl -fsSL https://getmagicrew.sh | bash
 
 不想自行部署？可直接使用云服务版本，注册即用、零配置：
 
-- **中国版**：[超级麦吉](https://www.letsmagic.cn)
-- **国际版**：[MagiCrew](https://www.magicrew.ai)
+- **中国站点**：[Garza OS](https://www.letsmagic.cn)
+- **国际站点**：[Garza OS](https://www.magicrew.ai)
+
+## 品牌与兼容性说明
+
+Garza OS 已成为本仓库的主要对外名称。当前部署流程仍依赖既有技术标识，包括 `magicrew` CLI、`MAGICREW_*` 环境变量、`magic-web` 等包名，以及 `super-magic` 等 API / 路由片段。
+
+现有部署流程中的公开入口暂时继续沿用，例如 `getmagicrew.sh`、`magicrew.ai`、`letsmagic.cn`；待 Garza OS 的新品牌基础设施上线后再统一替换。
 
 ### 企业版
 
@@ -193,7 +199,7 @@ curl -fsSL https://getmagicrew.sh | bash
 
 ## 贡献
 
-对于想要贡献代码的人，请参阅 [贡献指南（中文）](https://github.com/dtyq/magic/blob/master/CONTRIBUTING_CN.md) / [Contribution Guide](https://github.com/dtyq/magic/blob/master/CONTRIBUTING.md)。同时，也欢迎你通过社交媒体、活动和会议支持超级麦吉，项目的成长离不开你的参与。
+对于想要贡献代码的人，请参阅 [贡献指南（中文）](./CONTRIBUTING_CN.md) / [Contribution Guide](./CONTRIBUTING.md)。同时，也欢迎你通过社交媒体、活动和会议支持 Garza OS，项目的成长离不开你的参与。
 
 ## 安全漏洞
 
@@ -201,10 +207,10 @@ curl -fsSL https://getmagicrew.sh | bash
 
 ## 📄 许可证
 
-本仓库遵循 [Magic Open Source License](LICENSE) 开源协议，该许可证基于 Apache 2.0 并附加了额外限制。
+本仓库遵循 [开源许可证](LICENSE)，该许可证基于 Apache 2.0 并附加了额外限制。
 
 ## 🙏 致谢
 
-感谢所有为超级麦吉做出贡献的开发者！
+感谢所有为 Garza OS 做出贡献的开发者！
 
-[![Star History Chart](https://api.star-history.com/svg?repos=dtyq/magic&type=Date)](https://star-history.com/#dtyq/magic&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=itsablabla/garza-team&type=Date)](https://star-history.com/#itsablabla/garza-team&Date)

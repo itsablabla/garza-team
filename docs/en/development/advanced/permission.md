@@ -35,19 +35,19 @@ enum SuperPermissionEnum: string
     // Privileged Message Sending
     case PRIVILEGE_SEND_MESSAGE = 'privilege_send_message';
 
-    // Magic Environment Management
+    // Garza OS Environment Management
     case MAGIC_ENV_MANAGEMENT = 'magic_env_management';
     
     // Service Provider Administrator
     case SERVICE_PROVIDER_ADMIN = 'service_provider_admin';
 
-    // Super Magic Invite Use User
+    // Garza OS Invite Use User
     case SUPER_INVITE_USER = 'super_magic_invite_use_user';
 
-    // Super Magic Board Administrator
+    // Garza OS Board Administrator
     case SUPER_MAGIC_BOARD_ADMIN = 'super_magic_board_manager';
 
-    // Super Magic Board Operator
+    // Garza OS Board Operator
     case SUPER_MAGIC_ BOARD_OPERATOR = 'super_magic_board_operator';
 }
 ```
@@ -62,7 +62,7 @@ enum SuperPermissionEnum: string
 | MODEL_CONFIG_ADMIN | 'model_config_admin' | Large model configuration permission, can configure and manage large language model related settings |
 | HIDE_USER_OR_DEPT | 'hide_user_or_dept' | Hide user or department permission, can hide specific users or departments in the system |
 | PRIVILEGE_SEND_MESSAGE | 'privilege_send_message' | Privileged message sending permission, can send special types of messages |
-| MAGIC_ENV_MANAGEMENT | 'magic_env_management' | Magic environment management permission, can manage multi-environment configuration |
+| MAGIC_ENV_MANAGEMENT | 'magic_env_management' | Garza OS environment management permission, can manage multi-environment configuration |
 | SERVICE_PROVIDER_ADMIN | 'service_provider_admin' | Service provider administrator permission, can manage service provider related configuration and functions |
 
 ## Configuration File

@@ -15,7 +15,7 @@ var (
 	dataDir   string
 	rootCmd   = &cobra.Command{
 		Use:   cliName,
-		Short: "Magicrew CLI",
+		Short: "Garza OS CLI",
 		Run: func(cmd *cobra.Command, args []string) {
 			cmd.Help()
 		},

@@ -1,4 +1,4 @@
-# Magic Flow API 接口文档
+# Garza OS Flow API 接口文档
 ## 一、认证方式
 API 支持两种认证方式，您可以选择以下任一方式提供 API Key：
 **方式一：使用 api-key 请求头（推荐）**
@@ -71,7 +71,7 @@ curl -X POST "https://[API_HOST]/api/chat" \
   -H "Content-Type: application/json" \
   -H "api-key: YOUR_API_KEY" \
   -d '{
-    "message": "你好，Magic!",
+    "message": "你好，Garza OS!",
     "conversation_id": "conv_123456",
     "attachments": [],
     "stream": false
@@ -117,7 +117,7 @@ curl -X POST "https://[API_HOST]/api/chat" \
   -H "Content-Type: application/json" \
   -H "api-key: YOUR_API_KEY" \
   -d '{
-    "message": "你好，Magic!",
+    "message": "你好，Garza OS!",
     "conversation_id": "conv_123456",
     "attachments": [],
     "stream": true
@@ -192,7 +192,7 @@ curl -X POST "https://[API_HOST]/api/async-chat" \
   -H "Content-Type: application/json" \
   -H "api-key: YOUR_API_KEY" \
   -d '{
-    "message": "你好，Magic!",
+    "message": "你好，Garza OS!",
     "conversation_id": "conv_123456",
     "attachments": [],
     "async": true

@@ -40,7 +40,7 @@ const App: React.FC = () => {
 								color: "#1890ff",
 							}}
 						>
-							Magic UI Dev
+							Garza OS UI Dev
 						</Layout.Content>
 						<Menu
 							mode="inline"

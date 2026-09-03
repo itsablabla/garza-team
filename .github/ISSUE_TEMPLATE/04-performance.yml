@@ -1,5 +1,5 @@
 name: ⚡ Performance Issue / 性能问题
-description: I found Magic's bad performance / 我发现了Magic的性能问题
+description: I found Garza OS performance issues / 我发现了 Garza OS 的性能问题
 title: "[Performance]: "
 labels: ["performance", "needs-investigation"]
 assignees: []
@@ -20,12 +20,12 @@ body:
       label: Component
       description: Which component/module is experiencing performance issues?
       options:
-        - Super Magic
-        - Magic IM (Chat System)
-        - Magic Flow (Workflow System)
-        - Magic Service (Backend API)
-        - Magic Web (Frontend)
-        - Magic Gateway
+        - Garza OS Workspace
+        - Garza IM
+        - Garza Flow
+        - Garza Service
+        - Garza Web
+        - Garza Gateway
         - Database queries
         - File operations
         - Network/API calls
@@ -112,7 +112,7 @@ body:
         - OS: [e.g. macOS 14.0, Ubuntu 22.04, Windows 11]
         - Hardware: [e.g. CPU, RAM, Storage type]
         - Docker Version: [e.g. 24.0.7]
-        - Magic Version: [e.g. v1.0.0]
+        - Garza OS Version: [e.g. v1.0.0]
         - Deployment: [e.g. Docker Compose, K8s, Local]
         - Database: [e.g. MySQL 8.0, PostgreSQL 15]
         - Model Provider: [e.g. OpenAI GPT-4, Claude, Local LLM]

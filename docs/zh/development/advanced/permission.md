@@ -35,19 +35,19 @@ enum SuperPermissionEnum: string
     // 特权发消息
     case PRIVILEGE_SEND_MESSAGE = 'privilege_send_message';
 
-    // 麦吉多环境管理
+    // Garza OS多环境管理
     case MAGIC_ENV_MANAGEMENT = 'magic_env_management';
     
     // 服务商的管理员
     case SERVICE_PROVIDER_ADMIN = 'service_provider_admin';
 
-    // 超级麦吉邀请使用用户
+    // Garza OS邀请使用用户
     case SUPER_INVITE_USER = 'super_magic_invite_use_user';
 
-    // 超级麦吉看板管理人员
+    // Garza OS看板管理人员
     case SUPER_MAGIC_BOARD_ADMIN = 'super_magic_board_manager';
 
-    // 超级麦吉看板运营人员
+    // Garza OS看板运营人员
     case SUPER_MAGIC_ BOARD_OPERATOR = 'super_magic_board_operator';
 }
 ```
@@ -62,7 +62,7 @@ enum SuperPermissionEnum: string
 | MODEL_CONFIG_ADMIN | 'model_config_admin' | 大模型配置权限，可以配置和管理大语言模型相关设置 |
 | HIDE_USER_OR_DEPT | 'hide_user_or_dept' | 隐藏用户或部门权限，可以在系统中隐藏特定用户或部门 |
 | PRIVILEGE_SEND_MESSAGE | 'privilege_send_message' | 特权发消息权限，可以发送特殊类型的消息 |
-| MAGIC_ENV_MANAGEMENT | 'magic_env_management' | 麦吉多环境管理权限，可以管理多环境配置 |
+| MAGIC_ENV_MANAGEMENT | 'magic_env_management' | Garza OS多环境管理权限，可以管理多环境配置 |
 | SERVICE_PROVIDER_ADMIN | 'service_provider_admin' | 服务商管理员权限，可以管理服务商相关配置和功能 |
 
 ## 配置文件

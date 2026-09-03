@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "Magic"
-  text: "The New Generation Enterprise-level AI Application Innovation Engine"
+  name: "Garza OS"
+  text: "Open-source enterprise AI agent platform"
   tagline: Easily build powerful AI applications
   actions:
     - theme: brand
@@ -14,10 +14,18 @@ hero:
       text: Development
       link:  /en/development/quick-start/quick-introduction.md
 
+---
+
+## Branding and compatibility
+
+Garza OS is now the primary public-facing name in this repository. Technical identifiers still appear in the current product stack, including the `magicrew` CLI, `MAGICREW_*` environment variables, package names such as `magic-web`, and API or route segments such as `super-magic`.
+
+Current install and hosting endpoints, including `getmagicrew.sh`, `magicrew.ai`, and `letsmagic.cn`, remain in use until Garza OS replacement infrastructure is available.
+
 # features:
 #   - icon: 🚀
 #     title: Fast and Efficient
-#     details: With performance as its core, Magic Docs provides lightning-fast documentation sites.
+#     details: With performance as its core, Garza OS Docs provides lightning-fast documentation sites.
 #   - icon: 🎨
 #     title: Beautiful Design
 #     details: Modern and clean design that displays perfectly on all devices.

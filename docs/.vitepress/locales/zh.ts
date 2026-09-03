@@ -11,10 +11,10 @@ export default {
     sidebar: {
       '/zh/tutorial/': [
         {
-          text: 'Magic介绍',
+          text: 'Garza OS 介绍',
           collapsed: false,
           items: [
-            { text: '什么是Magic', link: '/zh/tutorial/magic-info/index' },
+            { text: '什么是 Garza OS', link: '/zh/tutorial/magic-info/index' },
             { text: '名称解释', link: '/zh/tutorial/magic-info/names' },
             { text: '核心功能', link: '/zh/tutorial/magic-info/core-function' },
             // { text: '开源版和企业版', link: '/zh/tutorial/magic-info/opensource-enterprise' },
@@ -60,7 +60,7 @@ export default {
           ]
         },
         {
-          text: 'Magic API',
+          text: 'Garza OS API',
           collapsed: false,
           items: [
             { text: 'Flow API', link: '/zh/tutorial/basic/open-api/flow-open-api' },
@@ -140,7 +140,7 @@ export default {
           collapsed: false,
           items: [
             { text: '一句话实现复杂任务', link: '/zh/tutorial/best-practice/complex-tasks-in-one-sentence' },
-            { text: '麦吉审批助理使用指南', link: '/zh/tutorial/best-practice/guide-to-using-the-magic-approval-assistant' },
+            { text: 'Garza OS 审批助理使用指南', link: '/zh/tutorial/best-practice/guide-to-using-the-magic-approval-assistant' },
             { text: '搭建一个门店知识助理', link: '/zh/tutorial/best-practice/build-a-store-knowledge-assistant' },
           ]
         }
@@ -158,7 +158,7 @@ export default {
           collapsed: false,
           items: [
             { text: 'Docker 安装', link: '/zh/development/deploy/docker' },
-            { text: 'Super Magic 安装', link: '/zh/development/deploy/super-magic' },
+            { text: 'Garza OS 安装', link: '/zh/development/deploy/super-magic' },
           ]
         },
 
@@ -186,7 +186,7 @@ export default {
     },
     footer: {
       message: '基于 Apache 2.0 许可发布',
-      copyright: 'Copyright © 2025-present Magic Docs'
+      copyright: 'Copyright © 2025-present Garza OS Docs'
     }
   }
 }

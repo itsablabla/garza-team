@@ -4,11 +4,11 @@
 
 **This document is stale and will be updated soon.**
 
-This document provides detailed information about the environment variables used in the Magic project, serving as a reference for development and deployment.
+This document provides detailed information about the environment variables used in the Garza OS project, serving as a reference for development and deployment.
 
 ## Overview
 
-The Magic project uses the `.env` file to manage environment variable configurations. During project deployment or development, you need to correctly configure these environment variables to ensure the system operates normally.
+The Garza OS project uses the `.env` file to manage environment variable configurations. During project deployment or development, you need to correctly configure these environment variables to ensure the system operates normally.
 
 ## Configuration File
 
@@ -145,7 +145,7 @@ ENABLE_CONSUME=true
 ENABLE_CHAT_MESSAGE=true
 # Enable chat sequence
 ENABLE_CHAT_SEQ=true
-# Enable Magic Watchdog (can be disabled for local development)
+# Enable Garza OS Watchdog (can be disabled for local development)
 ENABLE_MAGIC_WATCHDOG=false
 
 # Common switches
@@ -253,7 +253,7 @@ CODE_WHITE_ACCOUNT_ID=
 # Default magic_environment ID
 DEFAULT_MAGIC_ENVIRONMENT_ID=
 
-# Magic environment ID
+# Garza OS environment ID
 MAGIC_ENV_ID=1000
 ```
 

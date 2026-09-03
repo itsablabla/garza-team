@@ -1,20 +1,20 @@
 # CONTRIBUTING
 
-So you're looking to contribute to Magic - that's awesome, we can't wait to see what you do.  As a startup with limited headcount and funding, we have grand ambitions to build most powerful LLM applications.  Any help from the community counts, truly.
+So you're looking to contribute to Garza OS - that's awesome, we can't wait to see what you do.  As a startup with limited headcount and funding, we have grand ambitions to build most powerful LLM applications.  Any help from the community counts, truly.
 
 We need to be nimble and ship fast given where we are, but we also want to make sure that contributors like you get as smooth an experience at contributing as possible.  We've assembled this contribution guide for that purpose, aiming at getting you familiarized with the codebase & how we work with contributors, so you could quickly jump to the fun part.
 
-This guide, like Magic itself, is a constant work in progress.  We highly appreciate your understanding if at times it lags behind the actual project, and welcome any feedback for us to improve.
+This guide, like Garza OS itself, is a constant work in progress.  We highly appreciate your understanding if at times it lags behind the actual project, and welcome any feedback for us to improve.
 
 In terms of licensing, please take a minute to read our short [License and Contributor Agreement](./LICENSE).  The community also adheres to the [code of conduct](https://github.com/dtyq/.github/blob/main/CODE_OF_CONDUCT.md).
 
 ## Before you jump in
 
-Looking for something to tackle?  Browse our [good first issues](https://github.com/dtyq/magic/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22) and pick one to get started!
+Looking for something to tackle?  Browse our [good first issues](https://github.com/itsablabla/garza-team/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22) and pick one to get started!
 
-Got a cool idea or feature to add?  Open a PR in our [main repo](https://github.com/dtyq/magic) and show us what you've built.
+Got a cool idea or feature to add?  Open a PR in our [main repo](https://github.com/itsablabla/garza-team) and show us what you've built.
 
-Need to update an existing feature or squash some bugs?  Open a PR in our [main repo](https://github.com/dtyq/magic) and make your magic happen!
+Need to update an existing feature or squash some bugs?  Open a PR in our [main repo](https://github.com/itsablabla/garza-team) and help make Garza OS better.
 
 Join the fun, contribute, and let's build something awesome together!  💡✨
 
@@ -55,7 +55,7 @@ How we prioritize:
 | Feature Type                                                 | Priority        |
 | ------------------------------------------------------------ | --------------- |
 | High-Priority Features as being labeled by a team member     | High Priority   |
-| Popular feature requests from our [community feedback board](https://github.com/dtyq/magic/discussions/categories/feedbacks) | Medium Priority |
+| Popular feature requests from our [community feedback board](https://github.com/itsablabla/garza-team/discussions/categories/feedbacks) | Medium Priority |
 | Non-core features and minor enhancements                     | Low Priority    |
 | Valuable but not immediate                                   | Future-Feature  |
 ## Submitting your PR
@@ -73,11 +73,11 @@ How we prioritize:
 
 #### Frontend
 
-For setting up the frontend service, please refer to our comprehensive [guide](https://github.com/dtyq/magic/blob/main/frontend/README.md) in the `frontend/README. md` file.  This document provides detailed instructions to help you set up the frontend environment properly.
+For setting up the frontend service, please refer to our comprehensive [guide](https://github.com/itsablabla/garza-team/blob/main/frontend/README.md) in the `frontend/README. md` file.  This document provides detailed instructions to help you set up the frontend environment properly.
 
 #### Backend
 
-For setting up the backend service, kindly refer to our detailed [instructions](https://github.com/dtyq/magic/blob/main/backend/README.md) in the `backend/README. md` file.  This document contains step-by-step guidance to help you get the backend up and running smoothly.
+For setting up the backend service, kindly refer to our detailed [instructions](https://github.com/itsablabla/garza-team/blob/main/backend/README.md) in the `backend/README. md` file.  This document contains step-by-step guidance to help you get the backend up and running smoothly.
 
 #### Other things to note
 

@@ -16,8 +16,8 @@ function addSpaceBetweenChineseAndEnglish(text: string): string {
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Magic Docs",
-  description: "The New Generation Enterprise-level AI Application Innovation Engine",
+  title: "Garza OS Docs",
+  description: "Garza OS documentation for the open-source enterprise AI agent platform",
   locales: {
     root: en,
     zh: zh
@@ -69,7 +69,7 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/dtyq/magic' }
+      { icon: 'github', link: 'https://github.com/itsablabla/garza-team' }
     ],
     search: {
       provider: 'local'

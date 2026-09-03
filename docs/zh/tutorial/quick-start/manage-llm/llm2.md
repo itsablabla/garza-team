@@ -51,4 +51,4 @@
 
 ![FrLzQgYd-R0cPuh-grhOffzgNyLR.png](https://cdn.letsmagic.cn/static/img/FrLzQgYd-R0cPuh-grhOffzgNyLR.png)
 
-- 5.4 调试成功之后，调用 Magic 接口修改 embedding 模型（临时用），后面会改到管理员配置面板
+- 5.4 调试成功之后，调用 Garza OS 接口修改 embedding 模型（临时用），后面会改到管理员配置面板

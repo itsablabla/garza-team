@@ -1,14 +1,14 @@
-# 🎩 Magicrew - 下一代企业级 AI 应用创新引擎
+# 🎩 Garza OS - 下一代企业级 AI 应用创新引擎
 
 <div align="center">
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
-<!-- [![Docker Pulls](https://img.shields.io/docker/pulls/dtyq/magic.svg)](https://hub.docker.com/r/dtyq/magic)
-[![GitHub stars](https://img.shields.io/github/stars/dtyq/magic.svg?style=social&label=Star)](https://github.com/dtyq/magic) -->
+<!-- [![Docker Pulls](https://img.shields.io/docker/pulls/itsablabla/garza-team.svg)](https://hub.docker.com/r/itsablabla/garza-team)
+[![GitHub stars](https://img.shields.io/github/stars/itsablabla/garza-team.svg?style=social&label=Star)](https://github.com/itsablabla/garza-team) -->
 
 </div>
 
-Magicrew 是强大的企业级 AI 应用创新引擎，旨在帮助开发者快速构建与部署 AI 应用。它提供完整的开发框架、丰富的工具链与最佳实践，让 AI 应用开发更简单、高效。
+Garza OS 是强大的企业级 AI 应用创新引擎，旨在帮助开发者快速构建与部署 AI 应用。它提供完整的开发框架、丰富的工具链与最佳实践，让 AI 应用开发更简单、高效。
 
 ![flow](https://cdn.letsmagic.cn/static/img/showmagic.jpg)
 
@@ -24,13 +24,13 @@ Magicrew 是强大的企业级 AI 应用创新引擎，旨在帮助开发者快�
 
 ### 系统要求
 
-- Linux 内核 3.2 及以上 / macOS 12 Monterey 及以上（用于运行 Magicrew CLI）
+- Linux 内核 3.2 及以上 / macOS 12 Monterey 及以上（用于运行 Garza OS CLI）
 - 已安装并正常运行的 [Docker](https://www.docker.com/)
 - curl（用于获取一键部署脚本）
 
 Windows 即将支持。
 
-### 使用一键脚本安装 Magicrew
+### 使用一键脚本安装 Garza OS
 
 #### macOS/Linux
 
@@ -40,7 +40,7 @@ curl -fsSL https://getmagicrew.sh | bash
 
 这个脚本也可从 `https://dtyq.github.io/artifacts/bootstrap/latest/install.sh` 获取。
 
-脚本会拉取 [Magicrew CLI](https://github.com/dtyq/magic/tree/master/cli) 的最新发布版本，并用它部署 Magicrew。
+脚本会拉取 [Garza OS CLI](https://github.com/itsablabla/garza-team/tree/main/cli) 的最新发布版本，并用它部署 Garza OS。
 
 请等待安装完成。根据网络情况，这可能需要很长时间。
 
@@ -56,7 +56,7 @@ curl -fsSL https://getmagicrew.sh | bash
 To remove the cluster, run: magicrew teardown
 ```
 
-安装完成后，可以在 `http://localhost:38080` 访问 Magicrew。
+安装完成后，可以在 `http://localhost:38080` 访问 Garza OS。
 
 #### Windows
 
@@ -64,7 +64,7 @@ To remove the cluster, run: magicrew teardown
 
 ## 📚 文档
 
-详细文档请访问 [Magicrew 文档中心](http://docs.letsmagic.cn/)。
+详细文档请访问 [Garza OS 文档中心](http://docs.letsmagic.cn/)。
 
 ## 🤝 贡献
 
@@ -82,4 +82,4 @@ To remove the cluster, run: magicrew teardown
 
 ## 🙏 致谢
 
-感谢所有为 Magicrew 做出贡献的开发者！
+感谢所有为 Garza OS 做出贡献的开发者！

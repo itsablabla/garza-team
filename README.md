@@ -4,46 +4,46 @@
   <a href="#self-hosted-deployment"><img alt="Deploy now!" src="https://img.shields.io/badge/Deploy%20now%21-red" height="20"></a>
 </div>
 
-# 🔥 Magic - Enterprise-Grade Open-Source AI Agent Platform
+# 🔥 Garza OS - Enterprise-Grade Open-Source AI Agent Platform
 
 <div align="center">
   <p align="center">
-    <a href="https://www.magicrew.ai" target="_blank">
-      <img alt="Static Badge" src="https://img.shields.io/badge/Official Website-301AD2">
+    <a href="https://github.com/itsablabla/garza-team" target="_blank">
+      <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-Repository-301AD2">
     </a>
-    <a href="https://github.com/dtyq/magic/releases">
-      <img src="https://poser.pugx.org/dtyq/magic/v/stable" alt="Stable Version">
+    <a href="https://github.com/itsablabla/garza-team/releases">
+      <img src="https://img.shields.io/github/v/release/itsablabla/garza-team" alt="Latest Release">
     </a>
-    <a href="https://github.com/dtyq/magic/graphs/commit-activity" target="_blank">
-      <img alt="Commits last month" src="https://img.shields.io/github/commit-activity/m/dtyq/magic?labelColor=%20%2332b583&color=%20%2312b76a">
+    <a href="https://github.com/itsablabla/garza-team/graphs/commit-activity" target="_blank">
+      <img alt="Commits last month" src="https://img.shields.io/github/commit-activity/m/itsablabla/garza-team?labelColor=%20%2332b583&color=%20%2312b76a">
     </a>
-    <a href="https://github.com/dtyq/magic/" target="_blank">
-      <img alt="Issues closed" src="https://img.shields.io/github/issues-search?query=repo%3Adtyq%2Fmagic%20is%3Aclosed&label=issues%20closed&labelColor=%20%237d89b0&color=%20%235d6b98">
+    <a href="https://github.com/itsablabla/garza-team/" target="_blank">
+      <img alt="Issues closed" src="https://img.shields.io/github/issues-search?query=repo%3Aitsablabla%2Fgarza-team%20is%3Aclosed&label=issues%20closed&labelColor=%20%237d89b0&color=%20%235d6b98">
     </a>
-    <a href="https://github.com/dtyq/magic/discussions/" target="_blank">
-      <img alt="Discussion posts" src="https://img.shields.io/github/discussions/dtyq/magic?labelColor=%20%239b8afb&color=%20%237a5af8">
+    <a href="https://github.com/itsablabla/garza-team/discussions/" target="_blank">
+      <img alt="Discussion posts" src="https://img.shields.io/github/discussions/itsablabla/garza-team?labelColor=%20%239b8afb&color=%20%237a5af8">
     </a>
-    <a href="https://www.magicrew.ai" target="_blank">
-      <img alt="Static Badge" src="https://img.shields.io/badge/Built with Magic 🔮-301AD2">
+    <a href="./docs" target="_blank">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Docs-Garza%20OS-301AD2">
     </a>
   </p>
 </div>
 
 <br/>
 
-![MagiCrew](https://public-cdn.magicrew.ai/static/img/3.0/magicrew-publish-head.png)
+![Garza OS](https://public-cdn.magicrew.ai/static/img/3.0/magicrew-publish-head.png)
 
 [🦞 OpenClaw](https://github.com/openclaw/openclaw) is a great personal AI assistant — connecting all major IMs as conversation channels, supporting any LLM, running autonomously 24/7.
 
 But when we bring it into an enterprise context, new challenges naturally emerge: data scattered across individual accounts, no budget guardrails, output that stops at plain text, high-risk actions without an approval gate.
 
-Magic is built for exactly these challenges: an enterprise AI Agent platform built for **security, control, direct business outcomes, and autonomous 24/7 operation**.
+Garza OS is built for exactly these challenges: an enterprise AI Agent platform built for **security, control, direct business outcomes, and autonomous 24/7 operation**.
 
 ---
 
 ## Stop Tinkering. Start Building Your Enterprise AI Engine.
 
-Personal AI tools consistently hit the same walls when deployed at scale. Here's how Magic addresses each one:
+Personal AI tools consistently hit the same walls when deployed at scale. Here's how Garza OS addresses each one:
 
 - Data locked in employee accounts, gone when they leave → Unified data hub; institutional knowledge stays with the org
 - Unpredictable API costs, budget overruns at month-end → Per-department, per-user, per-task budget caps
@@ -54,7 +54,7 @@ Personal AI tools consistently hit the same walls when deployed at scale. Here's
 
 ## Built for Any Scale
 
-Magic isn't only for large enterprises. **From a one-person shop to a 10,000-person organization, it solves the same problem: the output of 100 people at the cost of 1.**
+Garza OS isn't only for large enterprises. **From a one-person shop to a 10,000-person organization, it solves the same problem: the output of 100 people at the cost of 1.**
 
 It's a natural fit for **OPC (One Person Company)** and **OPT (One Person Team)** operating models — lean assets, zero headcount overhead, fast delivery of tangible results, plug in new capabilities on demand. Whether you're a solo founder or a small team, you can command an entire AI workforce.
 
@@ -111,7 +111,7 @@ Fully compatible with the **[Anthropic Skills](https://docs.anthropic.com/en/doc
 
 ## Personal AI Assistant + Expert Agents: Everyone Commands an AI Army
 
-Magic brings two complementary capabilities to the enterprise:
+Garza OS brings two complementary capabilities to the enterprise:
 
 **Every employee gets a personal AI assistant**
 
@@ -182,8 +182,14 @@ The script handles everything — cluster creation, infrastructure, and service 
 
 Prefer not to self-host? Use the cloud version — sign up and go, zero configuration:
 
-- **China**: [Magic](https://www.letsmagic.cn)
-- **International**: [MagiCrew](https://www.magicrew.ai)
+- **China**: [Garza OS](https://www.letsmagic.cn)
+- **International**: [Garza OS](https://www.magicrew.ai)
+
+## Branding & Compatibility
+
+Garza OS is now the primary public-facing product name for this repository. Existing technical identifiers still power the current deployment flow, including the `magicrew` CLI, `MAGICREW_*` environment variables, package names such as `magic-web`, and API or route segments such as `super-magic`.
+
+Current public endpoints still appear in the deployment flow, including `getmagicrew.sh`, `magicrew.ai`, and `letsmagic.cn`, until Garza OS replacements are rolled out.
 
 ### Enterprise Edition
 
@@ -193,7 +199,7 @@ We offer enhanced management capabilities and features for teams and enterprises
 
 ## Contribution
 
-To contribute code, see the [Contribution Guide](https://github.com/dtyq/magic/blob/master/CONTRIBUTING.md) / [贡献指南（中文）](https://github.com/dtyq/magic/blob/master/CONTRIBUTING_CN.md). You're also welcome to support Magic through social media, events, and conferences — the project grows with community involvement.
+To contribute code, see the [Contribution Guide](./CONTRIBUTING.md) / [贡献指南（中文）](./CONTRIBUTING_CN.md). You're also welcome to support Garza OS through social media, events, and conferences — the project grows with community involvement.
 
 ## Security Vulnerabilities
 
@@ -201,10 +207,10 @@ If you discover a security vulnerability, email [team@dtyq.com](mailto:team@dtyq
 
 ## 📄 License
 
-This repository is licensed under the [Magic Open Source License](LICENSE), based on Apache 2.0 with additional restrictions.
+This repository is licensed under the [Open Source License](LICENSE), based on Apache 2.0 with additional restrictions.
 
 ## 🙏 Acknowledgements
 
-Thanks to all developers who have contributed to Magic!
+Thanks to all developers who have contributed to Garza OS!
 
-[![Star History Chart](https://api.star-history.com/svg?repos=dtyq/magic&type=Date)](https://star-history.com/#dtyq/magic&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=itsablabla/garza-team&type=Date)](https://star-history.com/#itsablabla/garza-team&Date)
