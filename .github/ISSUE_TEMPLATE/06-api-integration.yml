@@ -20,8 +20,8 @@ body:
       label: API/Integration Type
       description: What type of API or integration is affected?
       options:
-        - Garza Service REST API (legacy: Magic Service)
-        - Garza Gateway API (legacy: Magic Gateway)
+        - Garza Service REST API
+        - Garza Gateway API
         - WebSocket connections
         - Third-party AI model integration
         - Database integration
@@ -40,12 +40,12 @@ body:
       label: Component
       description: Which Garza OS component is involved?
       options:
-        - Garza OS Workspace (legacy: Super Magic)
-        - Garza IM (legacy: Magic IM)
-        - Garza Flow (legacy: Magic Flow)
-        - Garza Service (legacy: Magic Service)
-        - Garza Web (legacy: Magic Web)
-        - Garza Gateway (legacy: Magic Gateway)
+        - Garza OS Workspace
+        - Garza IM
+        - Garza Flow
+        - Garza Service
+        - Garza Web
+        - Garza Gateway
         - Agentlang Framework
         - Authentication system
         - File management
@@ -195,7 +195,7 @@ body:
       label: Environment
       description: Please provide environment details
       placeholder: |
-        - Magic Version: [e.g. v1.0.0]
+        - Garza OS Version: [e.g. v1.0.0]
         - Deployment: [e.g. Docker, Cloud, Self-hosted]
         - Programming Language/SDK: [e.g. Python 3.9, magic-sdk v1.0.0]
         - Operating System: [e.g. macOS 14.0, Ubuntu 22.04]

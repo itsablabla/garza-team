@@ -1,6 +1,6 @@
-# Magicrew CLI
+# Garza OS CLI
 
-Magicrew CLI is a command-line tool for managing Magicrew. You can download the latest binary release from the [artifacts repository](https://github.com/dtyq/artifacts).
+Garza OS CLI is a command-line tool for managing Garza OS. You can download the latest binary release from the [artifacts repository](https://github.com/dtyq/artifacts).
 
 For Simplified Chinese documentation, see [README_CN.md](./README_CN.md).
 

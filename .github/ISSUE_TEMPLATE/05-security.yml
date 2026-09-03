@@ -43,12 +43,12 @@ body:
       label: Component
       description: Which component/module does this security issue affect?
       options:
-        - Garza OS Workspace (legacy: Super Magic)
-        - Garza IM (legacy: Magic IM)
-        - Garza Flow (legacy: Magic Flow)
-        - Garza Service (legacy: Magic Service)
-        - Garza Web (legacy: Magic Web)
-        - Garza Gateway (legacy: Magic Gateway)
+        - Garza OS Workspace
+        - Garza IM
+        - Garza Flow
+        - Garza Service
+        - Garza Web
+        - Garza Gateway
         - Authentication system
         - Authorization/Permissions
         - Data storage/handling
@@ -139,7 +139,7 @@ body:
       label: Environment
       description: Please provide environment details where this security issue was observed
       placeholder: |
-        - Magic Version: [e.g. v1.0.0]
+        - Garza OS Version: [e.g. v1.0.0]
         - Deployment: [e.g. Docker, Cloud, Self-hosted]
         - Configuration: [relevant security settings]
         - Browser: [if frontend related]

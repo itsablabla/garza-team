@@ -5,11 +5,11 @@
 **该文档已过期，将会进行更新。**
 
 
-本文档详细介绍 Magic Service 项目中支持的文件存储驱动、配置方法以及使用场景。
+本文档详细介绍 Garza OS Service 项目中支持的文件存储驱动、配置方法以及使用场景。
 
 ## 概述
 
-Magic Service 支持多种文件存储驱动，可根据不同环境和需求灵活配置。目前支持以下三种驱动类型：
+Garza OS Service 支持多种文件存储驱动，可根据不同环境和需求灵活配置。目前支持以下三种驱动类型：
 
 1. 本地文件系统（Local）
 2. 阿里云对象存储（OSS）
@@ -99,7 +99,7 @@ FILE_PUBLIC_TOS_TRN=         # 可选，用于 STS 临时授权的角色 ARN
 
 ### 初始化命令
 
-Magic Service 提供了一个命令行工具用于初始化文件系统，尤其是在使用云存储服务时需要执行此命令将默认图标文件上传到云端：
+Garza OS Service 提供了一个命令行工具用于初始化文件系统，尤其是在使用云存储服务时需要执行此命令将默认图标文件上传到云端：
 
 ```bash
 php bin/hyperf.php file:init
@@ -172,7 +172,7 @@ php bin/hyperf.php file:init
 
 ## 文件系统API使用说明
 
-Magic Service 提供了一套完整的文件操作API，主要通过 `FileDomainService` 类进行调用。以下是常用 API 及其用法：
+Garza OS Service 提供了一套完整的文件操作API，主要通过 `FileDomainService` 类进行调用。以下是常用 API 及其用法：
 
 ### 核心服务类
 

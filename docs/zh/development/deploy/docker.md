@@ -1,6 +1,6 @@
 ## 快速开始
 
-> Garza OS 是当前对外使用的产品名称。为保证兼容性，下面的部署流程暂时仍沿用历史 `magicrew` CLI 及相关链接。
+> Garza OS 是当前对外使用的产品名称。下面的部署流程仍使用当前 `magicrew` CLI 及相关链接。
 
 支持 macOS 和 Linux。即将支持Windows。
 
@@ -8,7 +8,7 @@
 
 #### 前置要求
 
-- Linux 内核 3.2 及以上 / macOS 12 Monterey 及以上（用于运行历史 `magicrew` CLI）
+- Linux 内核 3.2 及以上 / macOS 12 Monterey 及以上（用于运行 `magicrew` CLI）
 - 已安装并正常运行的 [Docker](https://www.docker.com/)
 - curl（用于获取一键部署脚本）
 
@@ -20,7 +20,7 @@ curl -fsSL https://getmagicrew.sh | bash
 
 这个脚本也可从 `https://dtyq.github.io/artifacts/bootstrap/latest/install.sh` 获取。
 
-脚本会拉取历史 [magicrew CLI](https://github.com/itsablabla/garza-team/tree/main/cli) 的最新发布版本，并用它部署 Garza OS。
+脚本会拉取 [Garza OS CLI](https://github.com/itsablabla/garza-team/tree/main/cli) 的最新发布版本，并用它部署 Garza OS。
 
 请等待安装完成。根据网络情况，这可能需要很长时间。
 

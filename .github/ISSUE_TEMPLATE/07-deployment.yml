@@ -148,7 +148,7 @@ body:
     id: first-time
     attributes:
       label: Installation Type
-      description: Is this your first time installing Magic?
+      description: Is this your first time installing Garza OS?
       options:
         - First-time installation
         - Reinstallation after previous success
@@ -165,7 +165,7 @@ body:
       description: Have you tried any troubleshooting steps or alternative approaches?
       placeholder: |
         - Cleared Docker volumes and restarted
-        - Tried different Magic version
+        - Tried different Garza OS version
         - Changed environment variables
         - Checked firewall settings
         - [other troubleshooting steps]
@@ -178,7 +178,7 @@ body:
       label: Severity
       description: How much is this blocking you?
       options:
-        - Critical - Cannot proceed with Magic at all
+        - Critical - Cannot proceed with Garza OS at all
         - High - Major functionality not working
         - Medium - Some features not working
         - Low - Minor inconvenience

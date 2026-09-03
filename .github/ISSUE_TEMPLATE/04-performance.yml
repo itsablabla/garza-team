@@ -20,12 +20,12 @@ body:
       label: Component
       description: Which component/module is experiencing performance issues?
       options:
-        - Garza OS Workspace (legacy: Super Magic)
-        - Garza IM (legacy: Magic IM)
-        - Garza Flow (legacy: Magic Flow)
-        - Garza Service (legacy: Magic Service)
-        - Garza Web (legacy: Magic Web)
-        - Garza Gateway (legacy: Magic Gateway)
+        - Garza OS Workspace
+        - Garza IM
+        - Garza Flow
+        - Garza Service
+        - Garza Web
+        - Garza Gateway
         - Database queries
         - File operations
         - Network/API calls

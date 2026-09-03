@@ -4,11 +4,11 @@
 
 **This document is stale and will be updated soon.**
 
-This document provides detailed information about the file storage drivers supported in the Magic Service project, configuration methods, and usage scenarios.
+This document provides detailed information about the file storage drivers supported in the Garza OS Service project, configuration methods, and usage scenarios.
 
 ## Overview
 
-Magic Service supports multiple file storage drivers that can be flexibly configured according to different environments and requirements. Currently, it supports the following three driver types:
+Garza OS Service supports multiple file storage drivers that can be flexibly configured according to different environments and requirements. Currently, it supports the following three driver types:
 
 1. Local File System (Local)
 2. Alibaba Cloud Object Storage (OSS)
@@ -98,7 +98,7 @@ The system includes a set of default icon files located in the `storage/files/MA
 
 ### Initialization Command
 
-Magic Service provides a command-line tool for initializing the file system, especially when using cloud storage services to upload default icon files to the cloud:
+Garza OS Service provides a command-line tool for initializing the file system, especially when using cloud storage services to upload default icon files to the cloud:
 
 ```bash
 php bin/hyperf.php file:init
@@ -171,7 +171,7 @@ File system initialization completed
 
 ## File System API Usage Guide
 
-Magic Service provides a complete set of file operation APIs, mainly through the `FileDomainService` class. Here are common APIs and their usage:
+Garza OS Service provides a complete set of file operation APIs, mainly through the `FileDomainService` class. Here are common APIs and their usage:
 
 ### Core Service Classes
 

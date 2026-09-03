@@ -20,12 +20,12 @@ body:
       label: Component
       description: Which component/module would this feature affect?
       options:
-        - Garza OS Workspace (legacy: Super Magic)
-        - Garza IM (legacy: Magic IM)
-        - Garza Flow (legacy: Magic Flow)
-        - Garza Service (legacy: Magic Service)
-        - Garza Web (legacy: Magic Web)
-        - Garza Gateway (legacy: Magic Gateway)
+        - Garza OS Workspace
+        - Garza IM
+        - Garza Flow
+        - Garza Service
+        - Garza Web
+        - Garza Gateway
         - Agentlang Framework
         - Documentation
         - Deployment/Installation
@@ -124,7 +124,7 @@ body:
       description: What type of user would benefit from this feature?
       options:
         - End user (using Garza OS products)
-        - Developer (integrating/extending Magic)
+        - Developer (integrating/extending Garza OS)
         - System administrator
         - Enterprise/team admin
         - All users

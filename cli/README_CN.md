@@ -1,6 +1,6 @@
-# Magicrew CLI
+# Garza OS CLI
 
-Magicrew CLI 是用于管理 Magicrew 的命令行工具。你可以在 [artifacts 仓库](https://github.com/dtyq/artifacts) 的发布页下载最新二进制版本。
+Garza OS CLI 是用于管理 Garza OS 的命令行工具。你可以在 [artifacts 仓库](https://github.com/dtyq/artifacts) 的发布页下载最新二进制版本。
 
 英文文档请见 [README.md](./README.md)。
 

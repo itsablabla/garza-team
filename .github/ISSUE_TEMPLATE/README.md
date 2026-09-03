@@ -34,7 +34,7 @@ Use this template to report documentation issues or suggest improvements.
 Use this template to report performance problems or suggest optimizations.
 
 **When to use:**
-- Magic is running slowly
+- Garza OS is running slowly
 - High resource usage (CPU, memory)
 - API endpoints are taking too long to respond
 

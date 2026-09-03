@@ -18,14 +18,14 @@ hero:
 
 ## Branding and compatibility
 
-Garza OS is now the primary public-facing name in this repository. Technical identifiers are intentionally unchanged in this phase, including the `magicrew` CLI, `MAGICREW_*` environment variables, package names such as `magic-web`, and API or route segments such as `super-magic`.
+Garza OS is now the primary public-facing name in this repository. Technical identifiers still appear in the current product stack, including the `magicrew` CLI, `MAGICREW_*` environment variables, package names such as `magic-web`, and API or route segments such as `super-magic`.
 
-Legacy install and hosting endpoints, including `getmagicrew.sh`, `magicrew.ai`, and `letsmagic.cn`, remain valid until replacement infrastructure is available.
+Current install and hosting endpoints, including `getmagicrew.sh`, `magicrew.ai`, and `letsmagic.cn`, remain in use until Garza OS replacement infrastructure is available.
 
 # features:
 #   - icon: 🚀
 #     title: Fast and Efficient
-#     details: With performance as its core, Magic Docs provides lightning-fast documentation sites.
+#     details: With performance as its core, Garza OS Docs provides lightning-fast documentation sites.
 #   - icon: 🎨
 #     title: Beautiful Design
 #     details: Modern and clean design that displays perfectly on all devices.

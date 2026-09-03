@@ -1,14 +1,14 @@
-# 🎩 Magicrew - Next Generation Enterprise AI Application Innovation Engine
+# 🎩 Garza OS - Next Generation Enterprise AI Application Innovation Engine
 
 <div align="center">
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
-<!-- [![Docker Pulls](https://img.shields.io/docker/pulls/dtyq/magic.svg)](https://hub.docker.com/r/dtyq/magic)
-[![GitHub stars](https://img.shields.io/github/stars/dtyq/magic.svg?style=social&label=Star)](https://github.com/dtyq/magic) -->
+<!-- [![Docker Pulls](https://img.shields.io/docker/pulls/itsablabla/garza-team.svg)](https://hub.docker.com/r/itsablabla/garza-team)
+[![GitHub stars](https://img.shields.io/github/stars/itsablabla/garza-team.svg?style=social&label=Star)](https://github.com/itsablabla/garza-team) -->
 
 </div>
 
-Magicrew is a powerful enterprise-grade AI application innovation engine designed to help developers quickly build and deploy AI applications. It provides a complete development framework, rich toolchain, and best practices, making AI application development simple and efficient.
+Garza OS is a powerful enterprise-grade AI application innovation engine designed to help developers quickly build and deploy AI applications. It provides a complete development framework, rich toolchain, and best practices, making AI application development simple and efficient.
 
 ![flow](https://cdn.letsmagic.cn/static/img/showmagic.jpg)
 
@@ -24,13 +24,13 @@ Magicrew is a powerful enterprise-grade AI application innovation engine designe
 
 ### System Requirements
 
-- Linux kernel version 3.2 or later / macOs 12 Monterey or later (for running the Magicrew CLI)
+- Linux kernel version 3.2 or later / macOs 12 Monterey or later (for running the Garza OS CLI)
 - Working [Docker](https://www.docker.com/)
 - curl (for retrieving the one-line deployment script)
 
 Windows is coming soon.
 
-### Install Magicrew using one-line deployment script
+### Install Garza OS using one-line deployment script
 
 #### macOS/Linux
 
@@ -40,7 +40,7 @@ curl -fsSL https://getmagicrew.sh | bash
 
 The script is also located at `https://dtyq.github.io/artifacts/bootstrap/latest/install.sh`
 
-The script will fetch the latest release of [Magicrew CLI](https://github.com/dtyq/magic/tree/master/cli) and use it to deploy Magicrew.
+The script will fetch the latest release of [Garza OS CLI](https://github.com/itsablabla/garza-team/tree/main/cli) and use it to deploy Garza OS.
 
 Wait for the installation to complete. This may take a few minutes depending on your network speed.
 
@@ -52,7 +52,7 @@ Coming soon.
 
 ## 📚 Documentation
 
-For detailed documentation, please visit [Magic Documentation Center](http://docs.letsmagic.cn/).
+For detailed documentation, please visit [Garza OS Documentation Center](http://docs.letsmagic.cn/).
 
 ## 🤝 Contribution
 
@@ -70,4 +70,4 @@ We welcome contributions in various forms, including but not limited to:
 
 ## 🙏 Acknowledgements
 
-Thanks to all developers who have contributed to Magicrew!
+Thanks to all developers who have contributed to Garza OS!

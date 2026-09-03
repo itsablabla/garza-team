@@ -1,11 +1,11 @@
-# 超级麦吉（Super Magic）安装与使用教程
+# Garza OS 安装与使用教程
 
 **过期文档**
 
 **该文档已过期，将会进行更新。**
 
 
-本教程将指导您如何安装、配置和使用超级麦吉（Super Magic）服务。
+本教程将指导您如何安装、配置和使用 Garza OS 服务。
 
 ## 前提条件
 
@@ -20,20 +20,20 @@
 ### 1. 获取项目代码
 
 ```bash
-git clone https://github.com/dtyq/magic.git
-cd magic
+git clone https://github.com/itsablabla/garza-team.git
+cd garza-team
 ```
 
 ### 2. 配置环境文件
 
-Super Magic 服务依赖于几个关键的配置文件：
+Garza OS 服务依赖于几个关键的配置文件：
 
-#### 2.1 创建 Super Magic 配置文件
+#### 2.1 创建 Garza OS 配置文件
 
 ```bash
 cp config/.env_super_magic.example config/.env_super_magic
 ```
-配置超级麦吉环境变量，必须配置任意一种支持 OpenAI 格式的大模型环境变量，才可正常使用。
+配置Garza OS环境变量，必须配置任意一种支持 OpenAI 格式的大模型环境变量，才可正常使用。
 
 编辑 `config/.env_super_magic` 文件，配置必要的环境变量：
 
@@ -56,9 +56,9 @@ vim config/.env_super_magic
 3. 检测系统架构并设置合适的平台参数
 4. 询问部署方式（本地电脑部署或远程服务器部署）
 5. 如选择远程服务器部署，会检测公网 IP 并更新相关配置
-6. 询问是否安装 Super Magic 服务
+6. 询问是否安装 Garza OS 服务
 
-在提示「是否安装Super Magic服务?」时，选择 1 以安装 Super Magic 服务。
+在提示「是否安装Garza OS服务?」时，选择 1 以安装 Garza OS 服务。
 
 ## 使用指南
 
@@ -76,13 +76,13 @@ vim config/.env_super_magic
 ./bin/magic.sh daemon
 ```
 
-#### 仅启动 Super Magic 服务（前台）
+#### 仅启动 Garza OS 服务（前台）
 
 ```bash
 ./bin/magic.sh super-magic
 ```
 
-#### 仅启动 Super Magic 服务（后台）
+#### 仅启动 Garza OS 服务（后台）
 
 ```bash
 ./bin/magic.sh super-magic-daemon
@@ -116,7 +116,7 @@ vim config/.env_super_magic
 
 ## 配置说明
 
-### Super Magic 环境配置
+### Garza OS 环境配置
 
 `config/.env_super_magic` 文件包含以下重要配置项：
 
@@ -181,7 +181,7 @@ vim config/.env_super_magic
 3. **网络连接问题**
 
    如果使用远程部署，确保配置的 IP 地址正确，并且相关端口已开放：
-   - Super Magic 服务端口
+   - Garza OS 服务端口
    - Gateway 服务端口
 
 ## 高级配置
@@ -200,7 +200,7 @@ vim config/.env_super_magic
 
 ## 更新服务
 
-当需要更新 Super Magic 服务时，执行以下步骤：
+当需要更新 Garza OS 服务时，执行以下步骤：
 
 1. 拉取最新代码
    ```bash
@@ -214,4 +214,4 @@ vim config/.env_super_magic
 
 ## 结语
 
-通过本教程，您应该已经成功安装并配置了 Super Magic 服务。如有任何问题，请参考项目文档或联系技术支持团队。
+通过本教程，您应该已经成功安装并配置了 Garza OS 服务。如有任何问题，请参考项目文档或联系技术支持团队。

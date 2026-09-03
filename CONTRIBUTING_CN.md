@@ -55,7 +55,7 @@
 | 功能类型 | 优先级 |
 | ------ | ------ |
 | 被团队成员标记为高优先级的功能 | 高优先级 |
-| 来自我们[社区反馈板](https://github.com/dtyq/magic/discussions/categories/feedbacks)的受欢迎功能请求 | 中等优先级 |
+| 来自我们[社区反馈板](https://github.com/itsablabla/garza-team/discussions/categories/feedbacks)的受欢迎功能请求 | 中等优先级 |
 | 非核心功能和小增强 | 低优先级 |
 | 有价值但不紧急的功能 | 未来功能 |
 
@@ -75,11 +75,11 @@
 
 #### 前端
 
-关于设置前端服务，请参考 `frontend/README.md` 文件中的全面[指南](https://github.com/dtyq/magic/blob/main/frontend/README.md)。该文档提供了详细说明，帮助你正确设置前端环境。
+关于设置前端服务，请参考 `frontend/README.md` 文件中的全面[指南](https://github.com/itsablabla/garza-team/blob/main/frontend/README.md)。该文档提供了详细说明，帮助你正确设置前端环境。
 
 #### 后端
 
-关于设置后端服务，请参考 `backend/README.md` 文件中的详细[说明](https://github.com/dtyq/magic/blob/main/backend/README.md)。该文档包含分步指导，帮助你顺利运行后端。
+关于设置后端服务，请参考 `backend/README.md` 文件中的详细[说明](https://github.com/itsablabla/garza-team/blob/main/backend/README.md)。该文档包含分步指导，帮助你顺利运行后端。
 
 #### 其他注意事项
 

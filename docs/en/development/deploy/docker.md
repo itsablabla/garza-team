@@ -1,13 +1,13 @@
 ## Quick Start
 
-> Garza OS is the public-facing product name. The deployment flow below still uses the legacy `magicrew` CLI and related URLs for compatibility.
+> Garza OS is the public-facing product name. The deployment flow below still uses the current `magicrew` CLI and related URLs.
 Supports macOS and Linux. Windows is coming soon.
 
 ### UNIX-like
 
 #### Prerequisites
 
-- Linux kernel version 3.2 or later / macOs 12 Monterey or later (for running the legacy `magicrew` CLI)
+- Linux kernel version 3.2 or later / macOs 12 Monterey or later (for running the `magicrew` CLI)
 - Working [Docker](https://www.docker.com/)
 - curl (for retrieving the one-line deployment script)
 
@@ -19,7 +19,7 @@ curl -fsSL https://getmagicrew.sh | bash
 
 The script is also located at `https://dtyq.github.io/artifacts/bootstrap/latest/install.sh`
 
-The script will fetch the latest release of the legacy [magicrew CLI](https://github.com/itsablabla/garza-team/tree/main/cli) and use it to deploy Garza OS.
+The script will fetch the latest release of the [Garza OS CLI](https://github.com/itsablabla/garza-team/tree/main/cli) and use it to deploy Garza OS.
 
 Wait for the installation to complete. This may take a few minutes depending on your network speed.
 

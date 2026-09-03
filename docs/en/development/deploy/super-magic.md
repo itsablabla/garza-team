@@ -1,10 +1,10 @@
-# Super Magic Installation and Usage Guide
+# Garza OS Installation and Usage Guide
 
 **STALE DOCUMENT**
 
 **This document is stale and will be updated soon.**
 
-This guide will walk you through how to install, configure, and use the Super Magic service.
+This guide will walk you through how to install, configure, and use the Garza OS service.
 
 ## Prerequisites
 
@@ -19,20 +19,20 @@ Before getting started, make sure your system has the following software install
 ### 1. Get the Project Code
 
 ```bash
-git clone https://github.com/dtyq/magic.git
-cd magic
+git clone https://github.com/itsablabla/garza-team.git
+cd garza-team
 ```
 
 ### 2. Configure Environment Files
 
-The Super Magic service depends on several key configuration files:
+The Garza OS service depends on several key configuration files:
 
-#### 2.1 Create Super Magic Configuration File
+#### 2.1 Create Garza OS Configuration File
 
 ```bash
 cp config/.env_super_magic.example config/.env_super_magic
 ```
-Configure Super Magic environment variables. You must configure at least one large language model environment variable that supports the OpenAI format for proper functionality.
+Configure Garza OS environment variables. You must configure at least one large language model environment variable that supports the OpenAI format for proper functionality.
 
 Edit the `config/.env_super_magic` file to configure necessary environment variables:
 
@@ -55,9 +55,9 @@ When running for the first time, the installation script will perform the follow
 3. Detect system architecture and set appropriate platform parameters
 4. Ask about deployment method (local computer deployment or remote server deployment)
 5. If remote server deployment is selected, detect public IP and update related configurations
-6. Ask whether to install Super Magic service
+6. Ask whether to install Garza OS service
 
-When prompted "Do you want to install Super Magic service?", select "1" to install the Super Magic service.
+When prompted "Do you want to install Garza OS service?", select "1" to install the Garza OS service.
 
 ## Usage Guide
 
@@ -75,13 +75,13 @@ When prompted "Do you want to install Super Magic service?", select "1" to insta
 ./bin/magic.sh daemon
 ```
 
-#### Start Only Super Magic Service (Foreground)
+#### Start Only Garza OS Service (Foreground)
 
 ```bash
 ./bin/magic.sh super-magic
 ```
 
-#### Start Only Super Magic Service (Background)
+#### Start Only Garza OS Service (Background)
 
 ```bash
 ./bin/magic.sh super-magic-daemon
@@ -115,7 +115,7 @@ When prompted "Do you want to install Super Magic service?", select "1" to insta
 
 ## Configuration Details
 
-### Super Magic Environment Configuration
+### Garza OS Environment Configuration
 
 The `config/.env_super_magic` file contains the following important configuration items:
 
@@ -180,7 +180,7 @@ The `config/.env_super_magic` file contains the following important configuratio
 3. **Network Connection Issues**
 
    If using remote deployment, ensure that the configured IP address is correct and relevant ports are open:
-   - Super Magic service ports
+   - Garza OS service ports
    - Gateway service ports
 
 ## Advanced Configuration
@@ -199,7 +199,7 @@ If you need to perform more granular configurations manually, you can directly e
 
 ## Updating the Service
 
-When you need to update the Super Magic service, follow these steps:
+When you need to update the Garza OS service, follow these steps:
 
 1. Pull the latest code
    ```bash
@@ -213,4 +213,4 @@ When you need to update the Super Magic service, follow these steps:
 
 ## Conclusion
 
-Through this guide, you should have successfully installed and configured the Super Magic service. If you have any questions, please refer to the project documentation or contact the technical support team.
+Through this guide, you should have successfully installed and configured the Garza OS service. If you have any questions, please refer to the project documentation or contact the technical support team.

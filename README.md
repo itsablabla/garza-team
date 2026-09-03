@@ -182,14 +182,14 @@ The script handles everything — cluster creation, infrastructure, and service 
 
 Prefer not to self-host? Use the cloud version — sign up and go, zero configuration:
 
-- **Legacy China site**: [Magic](https://www.letsmagic.cn)
-- **Legacy international site**: [MagiCrew](https://www.magicrew.ai)
+- **China**: [Garza OS](https://www.letsmagic.cn)
+- **International**: [Garza OS](https://www.magicrew.ai)
 
 ## Branding & Compatibility
 
-Garza OS is now the primary public-facing product name for this repository. To keep upgrades low-risk, existing technical identifiers remain unchanged for now, including the `magicrew` CLI, `MAGICREW_*` environment variables, package names such as `magic-web`, and API or route segments such as `super-magic`.
+Garza OS is now the primary public-facing product name for this repository. Existing technical identifiers still power the current deployment flow, including the `magicrew` CLI, `MAGICREW_*` environment variables, package names such as `magic-web`, and API or route segments such as `super-magic`.
 
-Legacy infrastructure and public endpoints still appear in the current deployment flow, including `getmagicrew.sh`, `magicrew.ai`, `letsmagic.cn`, and older GitHub references. They remain supported until replacement branding and hosting are rolled out.
+Current public endpoints still appear in the deployment flow, including `getmagicrew.sh`, `magicrew.ai`, and `letsmagic.cn`, until Garza OS replacements are rolled out.
 
 ### Enterprise Edition
 
@@ -207,7 +207,7 @@ If you discover a security vulnerability, email [team@dtyq.com](mailto:team@dtyq
 
 ## 📄 License
 
-This repository is licensed under the [Magic Open Source License](LICENSE), based on Apache 2.0 with additional restrictions. The legal license name remains unchanged in this branding refresh.
+This repository is licensed under the [Open Source License](LICENSE), based on Apache 2.0 with additional restrictions.
 
 ## 🙏 Acknowledgements
 

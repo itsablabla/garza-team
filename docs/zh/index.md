@@ -18,14 +18,14 @@ hero:
 
 ## 品牌与兼容性说明
 
-Garza OS 已成为当前文档与仓库的主要对外名称。为了保证兼容性，本阶段仍保留现有技术标识不变，包括 `magicrew` CLI、`MAGICREW_*` 环境变量、`magic-web` 等包名，以及 `super-magic` 等 API 或路由片段。
+Garza OS 已成为当前文档与仓库的主要对外名称。当前产品栈仍使用既有技术标识，包括 `magicrew` CLI、`MAGICREW_*` 环境变量、`magic-web` 等包名，以及 `super-magic` 等 API 或路由片段。
 
-`getmagicrew.sh`、`magicrew.ai`、`letsmagic.cn` 等历史安装或托管入口仍然有效，后续会在替代基础设施准备完成后统一切换。
+`getmagicrew.sh`、`magicrew.ai`、`letsmagic.cn` 等当前安装或托管入口仍然有效，后续会在 Garza OS 替代基础设施准备完成后统一切换。
 
 # features:
 #   - icon: 🚀
 #     title: 快速高效
-#     details: 以性能为核心，Magic Docs提供闪电般快速的文档站点。
+#     details: 以性能为核心，Garza OS Docs 提供闪电般快速的文档站点。
 #   - icon: 🎨
 #     title: 精美设计
 #     details: 现代简洁的设计，在所有设备上都能完美展示。

@@ -55,7 +55,7 @@ How we prioritize:
 | Feature Type                                                 | Priority        |
 | ------------------------------------------------------------ | --------------- |
 | High-Priority Features as being labeled by a team member     | High Priority   |
-| Popular feature requests from our [community feedback board](https://github.com/dtyq/magic/discussions/categories/feedbacks) | Medium Priority |
+| Popular feature requests from our [community feedback board](https://github.com/itsablabla/garza-team/discussions/categories/feedbacks) | Medium Priority |
 | Non-core features and minor enhancements                     | Low Priority    |
 | Valuable but not immediate                                   | Future-Feature  |
 ## Submitting your PR
@@ -73,11 +73,11 @@ How we prioritize:
 
 #### Frontend
 
-For setting up the frontend service, please refer to our comprehensive [guide](https://github.com/dtyq/magic/blob/main/frontend/README.md) in the `frontend/README. md` file.  This document provides detailed instructions to help you set up the frontend environment properly.
+For setting up the frontend service, please refer to our comprehensive [guide](https://github.com/itsablabla/garza-team/blob/main/frontend/README.md) in the `frontend/README. md` file.  This document provides detailed instructions to help you set up the frontend environment properly.
 
 #### Backend
 
-For setting up the backend service, kindly refer to our detailed [instructions](https://github.com/dtyq/magic/blob/main/backend/README.md) in the `backend/README. md` file.  This document contains step-by-step guidance to help you get the backend up and running smoothly.
+For setting up the backend service, kindly refer to our detailed [instructions](https://github.com/itsablabla/garza-team/blob/main/backend/README.md) in the `backend/README. md` file.  This document contains step-by-step guidance to help you get the backend up and running smoothly.
 
 #### Other things to note
 

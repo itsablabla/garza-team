@@ -1,4 +1,4 @@
-# Magicrew System Initialization Guide
+# Garza OS System Initialization Guide
 
 The initialization process is now in the web interface, just follow the instructions in the web interface.
 

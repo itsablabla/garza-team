@@ -182,14 +182,14 @@ curl -fsSL https://getmagicrew.sh | bash
 
 不想自行部署？可直接使用云服务版本，注册即用、零配置：
 
-- **历史中国站点**：[Magic](https://www.letsmagic.cn)
-- **历史国际站点**：[MagiCrew](https://www.magicrew.ai)
+- **中国站点**：[Garza OS](https://www.letsmagic.cn)
+- **国际站点**：[Garza OS](https://www.magicrew.ai)
 
 ## 品牌与兼容性说明
 
-Garza OS 已成为本仓库的主要对外名称。为了降低升级风险，当前阶段仍保留现有技术标识不变，包括 `magicrew` CLI、`MAGICREW_*` 环境变量、`magic-web` 等包名，以及 `super-magic` 等 API / 路由片段。
+Garza OS 已成为本仓库的主要对外名称。当前部署流程仍依赖既有技术标识，包括 `magicrew` CLI、`MAGICREW_*` 环境变量、`magic-web` 等包名，以及 `super-magic` 等 API / 路由片段。
 
-现有部署流程中的历史基础设施与公开入口暂时继续沿用，例如 `getmagicrew.sh`、`magicrew.ai`、`letsmagic.cn` 以及旧的 GitHub 引用；待新的品牌基础设施上线后再统一替换。
+现有部署流程中的公开入口暂时继续沿用，例如 `getmagicrew.sh`、`magicrew.ai`、`letsmagic.cn`；待 Garza OS 的新品牌基础设施上线后再统一替换。
 
 ### 企业版
 
@@ -207,7 +207,7 @@ Garza OS 已成为本仓库的主要对外名称。为了降低升级风险，�
 
 ## 📄 许可证
 
-本仓库遵循 [Magic Open Source License](LICENSE) 开源协议，该许可证基于 Apache 2.0 并附加了额外限制。本次品牌更新未调整许可证的法定名称。
+本仓库遵循 [开源许可证](LICENSE)，该许可证基于 Apache 2.0 并附加了额外限制。
 
 ## 🙏 致谢
 

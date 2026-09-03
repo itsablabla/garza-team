@@ -4,11 +4,11 @@
 
 **该文档已过期，将会进行更新。**
 
-本文档详细说明 Magic 项目中使用的环境变量配置，为开发和部署提供参考。
+本文档详细说明 Garza OS 项目中使用的环境变量配置，为开发和部署提供参考。
 
 ## 概述
 
-Magic 项目使用 `.env` 文件管理环境变量配置。在项目部署或开发时，您需要正确配置这些环境变量以确保系统正常运行。
+Garza OS 项目使用 `.env` 文件管理环境变量配置。在项目部署或开发时，您需要正确配置这些环境变量以确保系统正常运行。
 
 ## 配置文件
 
@@ -145,7 +145,7 @@ ENABLE_CONSUME=true
 ENABLE_CHAT_MESSAGE=true
 # 启用聊天序列
 ENABLE_CHAT_SEQ=true
-# 启用 Magic 看门狗（本地开发可禁用）
+# 启用 Garza OS 看门狗（本地开发可禁用）
 ENABLE_MAGIC_WATCHDOG=false
 
 # 通用开关
@@ -250,10 +250,10 @@ APP_CODE=
 # CODE 白名单
 CODE_WHITE_ACCOUNT_ID=
 
-# 默认 Magic 环境 ID
+# 默认 Garza OS 环境 ID
 DEFAULT_MAGIC_ENVIRONMENT_ID=
 
-# Magic 环境 ID
+# Garza OS 环境 ID
 MAGIC_ENV_ID=1000
 ```
 
